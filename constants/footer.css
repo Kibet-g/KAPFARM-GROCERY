@@ -1,0 +1,21 @@
+﻿body {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    padding: 20px;
+    background: #297631;
+    margin-top: auto;
+}
+
+#footer {
+    display: flex;
+    text-align: center;
+    gap: 45px;
+    color: white;
+}
+
+#socials {
+    text-decoration: white;
+}

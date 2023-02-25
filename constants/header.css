@@ -1,0 +1,40 @@
+﻿#searchBox {
+    border-radius: 30px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#searchBtn {
+    padding: 15px;
+    background: #297631;
+    border-radius: 50%;
+}
+
+header {
+    background-color: #297631;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+    nav li a {
+        display: block;
+        color: #ffffff;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        nav li a:hover {
+            background-color: #ddd;
+        }
